@@ -42,6 +42,8 @@ IMAGE_INSTALL += " \
     \
     gpicview \
     media-files \
+    gstreamer1.0-plugins-bad \
+    kmsxx \
 "
 
 # packagegroup-arago-gst-sdk-target
